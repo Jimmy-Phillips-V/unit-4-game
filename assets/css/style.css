@@ -1,0 +1,72 @@
+body {
+    background-image:  url("../images/brijan.gif");
+}
+
+.head-container {
+    background: lavender;
+    color: tan;
+    font-size: 40px;
+    padding: 15px;
+    width: 35%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.rules {
+    background: lightcoral;
+    color: navajowhite;
+    font-size: 24px;
+    line-height: 32px;
+    padding: 20px;
+    width: 40%;
+    margin: 10px auto;
+}
+
+#rules-head {
+    text-align: center;
+}
+
+.col {
+    display: table;
+    width: 50%;
+    margin: 10px auto;
+}
+
+.random-number {
+    background: teal;
+    color: beige;
+    padding: 20px;
+    width: 33.3%;
+    font-size: 24px;
+    display: table-cell;
+}
+
+
+.scoreboard {
+    background: mediumseagreen;
+    color: indianred;
+    padding: 20px;
+    font-size: 24px;
+    width: 33.4%;
+    display: table-cell;
+}
+
+.total-score {
+    background: peru;
+    color: turquoise;
+    padding: 20px;
+    width: 33.3%;
+    height: 50px;
+    font-size: 24px;
+    display: table-cell;
+}
+
+.crystal-images {
+    position: relative;
+    left: 120px;
+    margin: 10px 50px;
+    height: 200px;
+    width: 200px;
+}
+
+
